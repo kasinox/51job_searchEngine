@@ -1,4 +1,7 @@
 51job_searchEngine
 ==================
 
-java webcrawler seraching through 51job for job postings
+java webcrawler
+
+ver. 0.001
+
